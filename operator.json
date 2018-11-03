@@ -1,0 +1,10 @@
+{
+  "name": "Substract",
+  "description": "Compute Y - X per data point",
+  "tags": ["simple arithmetic"],
+  "authors": ["tercen"],
+  "urls": ["https://github.com/tercen/subtract_operator"],
+  "properties": []
+}
+
+
