@@ -1,9 +1,9 @@
 {
   "kind": "OperatorUnitTest",
-  "name": "substract",
+  "name": "Substract",
   "namespace": "ds0",
-  "inputDataUri": "custom_data_design.tsv",
-  "outputDataUri": ["table1.csv","table2.csv"],
+  "inputDataUri": "c04_simple_measurement2_design.tsv",
+  "outputDataUri": ["table1.csv"],
   "columns": [],
   "rows": [],
   "colors": [],
