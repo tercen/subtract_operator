@@ -1,7 +1,9 @@
 library(tercen)
 library(dplyr)
 
-(ctx = tercenCtx()) %>% 
+ctx <- tercenCtx()
+
+ctx  %>% 
   select(.x, .y) %>% 
   transmute(difference = .y - .x) %>%
   ctx$addNamespace() %>%

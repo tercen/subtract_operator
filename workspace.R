@@ -1,8 +1,8 @@
 library(tercen)
 library(dplyr)
 
-options("tercen.workflowId" = "5f8ff8c8c6b0e2dda612c715f200ad11")
-options("tercen.stepId"     = "7dc05c03-3faa-43bc-aedb-307e30f06709")
+options("tercen.workflowId" = "4ba553e4b19c5411dc78e22a19000675")
+options("tercen.stepId"     = "bf7cd24c-fc38-471e-a053-8336a7b98c1d")
 
 ctx <- tercenCtx()
 
