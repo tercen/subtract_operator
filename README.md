@@ -1,4 +1,4 @@
-# subtract operator
+# Subtract
 
 ##### Description
 
@@ -13,7 +13,7 @@ Input projection|.
 
 Output relations|.
 ---|---
-`difference`          | numeric, difference value returned per cell
+`value`          | numeric, difference value returned per cell
 
 ##### Details
 
