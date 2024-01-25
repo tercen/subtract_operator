@@ -1,10 +1,14 @@
 {
   "name": "Subtract",
   "description": "Calculates the reduction of value X by value Y.",
-  "tags": ["simple arithmetic"],
-  "authors": ["tercen"],
-  "urls": ["https://github.com/tercen/subtract_operator"],
+  "tags": [
+    "arithmetic"
+  ],
+  "authors": [
+    "tercen"
+  ],
+  "urls": [
+    "https://github.com/tercen/subtract_operator"
+  ],
   "properties": []
 }
-
-
