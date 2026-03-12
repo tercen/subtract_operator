@@ -47,7 +47,7 @@
               {
                 "kind": "MetaFactor",
                 "name": "Y axis",
-                "type": "numeric",
+                "type": "double",
                 "description": "Initial value before subtraction.",
                 "ontologyMapping": "measurement",
                 "crosstabMapping": "y",
@@ -57,7 +57,7 @@
               {
                 "kind": "MetaFactor",
                 "name": "X axis",
-                "type": "numeric",
+                "type": "double",
                 "description": "Value to be subtracted from the initial value.",
                 "ontologyMapping": "measurement",
                 "crosstabMapping": "x",
